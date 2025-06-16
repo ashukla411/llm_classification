@@ -58,4 +58,4 @@ You should probably TRAIN this model on a down-stream task to be able to use it 
 ```
 
 ## Docker Improvements
-If you store the models over cloud storage our host it over some cloud infrastrucutre you can save the default docker image size of this repository.
+If you store the models over cloud storage our host it over some cloud infrastrucutre you can save some space of default docker image size of this repository.
