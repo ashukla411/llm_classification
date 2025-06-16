@@ -2,3 +2,4 @@ README.*
 __pycache__/
 *checkpoint*
 *.ipynb
+*.txt
