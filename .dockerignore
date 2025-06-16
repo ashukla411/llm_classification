@@ -2,4 +2,5 @@ README.*
 __pycache__/
 *checkpoint*
 *.ipynb
-*.txt
+Cancer/*
+Non-Cancer/*
