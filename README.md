@@ -36,7 +36,7 @@ Step 6/6 : CMD [ "fastapi","dev", "app.py" ]
  ---> Removed intermediate container facee7b5b1e1
  ---> f5481f7b054b
 Successfully built f5481f7b054b
-Successfully tagged velsera:latest
+Successfully tagged APPNAME:latest
 ```
 - `docker images`
 ```
